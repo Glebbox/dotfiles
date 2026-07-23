@@ -32,11 +32,12 @@
     },
 
     "custom/todo": {
-         "exec": "~/.config/waybar/scripts/todo.sh",
-         "return-type": "json",
-         "on-click": "nano ~/todo.txt",
-         "tooltip": true
-     },
+        "exec": "~/dotfiles/.config/waybar/scripts/todo.sh",
+        "return-type": "json",
+        "on-click": "nano ~/todo.txt",
+        "on-click-right": "alacritty -e nano ~/todo.txt",
+        "tooltip": true
+    },
 
     "custom/power": {
         "format": "",

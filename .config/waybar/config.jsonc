@@ -33,6 +33,6 @@
 
     // Load module definitions
     "include": [
-        "~/.config/waybar/modules.json"
+        "~/dotfiles/.config/waybar/modules.json"
     ]
 }
