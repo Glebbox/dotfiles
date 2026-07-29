@@ -20,6 +20,8 @@
     "modules-right": [
         // "idle_inhibitor",
 
+        "tray",
+
         "pulseaudio",
 
         "clock",

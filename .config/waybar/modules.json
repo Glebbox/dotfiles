@@ -45,6 +45,11 @@
         "on-click": "~/.config/waybar/scripts/powermenu.sh"
     },
 
+    "tray": {
+        "icon-size": 16,
+        "spacing": 10
+    },
+
     "hyprland/language": {
         "format": "{}",
         "format-en": "EN",
