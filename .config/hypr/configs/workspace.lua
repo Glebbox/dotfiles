@@ -61,3 +61,9 @@ hl.window_rule({
     match = { class = "^(discord)$" },
     workspace = "2",
 })
+
+hl.window_rule({
+    name = "zed-to-workspace-3",
+    match = { class = "^(dev\\.zed\\.Zed)$" },
+    workspace = "3",
+})

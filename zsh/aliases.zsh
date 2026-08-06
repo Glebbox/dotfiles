@@ -1,4 +1,3 @@
-
 # /\/\/\/\АЛИАСЫ/\/\/\/\
 # Редачить доты
 alias dotred='zeditor ~/dotfiles'
