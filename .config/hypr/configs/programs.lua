@@ -1,8 +1,3 @@
----------------------
----- MY PROGRAMS ----
----------------------
-
--- Set programs that you use
 terminal    = "alacritty"
 fileManager = "thunar"
 menu        = "rofi -show drun -show-icons"
