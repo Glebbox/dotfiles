@@ -1,8 +1,8 @@
 {
     "custom/arch": {
         "format": "󰣇",
-        "tooltip": true,
-        "tooltip-format": "Made with 𖹭 \n ~shivam"
+        "tooltip": false,
+        "tooltip-format": "Здесь был glebbox"
     },
 
     "hyprland/workspaces": {
@@ -27,7 +27,7 @@
     },
 
     "clock": {
-        "format": " {:%H:%M  %e.%m}",
+        "format": " {:%H:%M %e.%m}",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
     },
 
