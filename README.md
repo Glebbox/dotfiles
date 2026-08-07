@@ -1,19 +1,22 @@
 Самая банальщина какую только можно было придумать.
 Мои личные доты. Пилю этот репозиторий если охото будет пересесть на другое устройство и быстро развернуть свою тему.
 
+Превью:<img width="1280" height="720" alt="изображение" src="https://github.com/user-attachments/assets/26054615-6e4d-4529-a026-56cfb8980eda" />
+
 Что я уже спиздил: 
   1) Конфиг вайбара от Shivam 
   2) SDDM тему от Keyitdev
 
 Основной софт:
 1) Hyprland
-2) Waybar
-3) Rofi
-4) Thunar
-5) SDDM
+2) Alacritty
+3) Waybar
+4) Rofi
+5) Thunar
+6) SDDM
    
 
-Превью:<img width="1280" height="720" alt="изображение" src="https://github.com/user-attachments/assets/26054615-6e4d-4529-a026-56cfb8980eda" />
+
 
 Шорткаты hyprland:
 1) MOD + Q - Открыть терминал
