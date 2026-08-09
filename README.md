@@ -1,13 +1,8 @@
-Самая банальщина какую только можно было придумать.
-Мои личные доты. Пилю этот репозиторий если охото будет пересесть на другое устройство и быстро развернуть свою тему.
+Just an simple backup + showcase of my setup.
 
-Превью:<img width="1280" height="720" alt="изображение" src="https://github.com/user-attachments/assets/26054615-6e4d-4529-a026-56cfb8980eda" />
+<img width="1280" height="720" alt="изображение" src="https://github.com/user-attachments/assets/26054615-6e4d-4529-a026-56cfb8980eda" />
 
-Что я уже спиздил: 
-  1) Конфиг вайбара от Shivam 
-  2) SDDM тему от Keyitdev
-
-Основной софт:
+Main software:
 1) Hyprland
 2) Alacritty
 3) Waybar
@@ -15,15 +10,12 @@
 5) Thunar
 6) SDDM
    
-
-
-
-Шорткаты hyprland:
-1) MOD + Q - Открыть терминал
-2) MOD + C - Закрыть активное окно
-3) CTRL + SHIFT + ESC - Открыть Mission center
-4) MOD + (1-9) - Переключение на рабочий стол
-5) MOD + SHIFT + (1-9) - Переместить активное окно на рабочий стол
-6) MOD + (up/down/left/right) - Смена активного окна
-7) MOD + E - Открыть файловый менеджер
-8) MOD + R - Открыть Rofi
+Shortcuts hyprland:
+1) MOD + Q - Terminal
+2) MOD + C - Close active window
+3) CTRL + SHIFT + ESC - Mission center
+4) MOD + (1-9) - Change workdplace
+5) MOD + SHIFT + (1-9) - Move active window to workplace
+6) MOD + (up/down/left/right) - change active window
+7) MOD + E - File manager
+8) MOD + R - Rofi
