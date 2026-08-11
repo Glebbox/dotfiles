@@ -3,7 +3,7 @@
     "layer": "top",
     "position": "top",
     "height": 44,
-    "spacing": 6,
+    "spacing": 0,
 
     // Left side
     "modules-left": [

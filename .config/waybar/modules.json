@@ -47,7 +47,7 @@
 
     "tray": {
         "icon-size": 16,
-        "spacing": 10
+        "spacing": 5
     },
 
     "hyprland/language": {
