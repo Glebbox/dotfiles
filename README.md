@@ -20,5 +20,5 @@ Shortcuts hyprland:
 7) MOD + E - File manager
 8) MOD + R - Rofi
 
-Original waybar config : https://github.com/shivam-salkar/minimal-waybar-config
+Original waybar config : https://github.com/shivam-salkar/minimal-waybar-config  
 Original SDDM theme : https://github.com/Keyitdev/sddm-astronaut-theme
