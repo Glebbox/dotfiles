@@ -19,3 +19,6 @@ Shortcuts hyprland:
 6) MOD + (up/down/left/right) - change active window
 7) MOD + E - File manager
 8) MOD + R - Rofi
+
+Original waybar config : https://github.com/shivam-salkar/minimal-waybar-config
+Original SDDM theme : https://github.com/Keyitdev/sddm-astronaut-theme
